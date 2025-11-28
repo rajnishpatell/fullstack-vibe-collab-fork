@@ -1,2 +1,3 @@
-# Fullstack Vibe Collab
-Starter repo for Git workflow assignment.
+## LLM-Generated Schema
+Collection: feedbacks  
+Fields: name, email, message, created_at, rating
